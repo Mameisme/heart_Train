@@ -6,7 +6,6 @@ import joblib
 
 model = joblib.load('heartDis.joblib')
 
-def main():
     
 # Konfigurasi halaman
 st.set_page_config(
