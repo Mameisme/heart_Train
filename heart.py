@@ -135,6 +135,3 @@ if submit:
     )
 
     st.write("Data siap digunakan untuk prediksi Machine Learning.")
-
-if __name__ == "__main__":
-    main()
