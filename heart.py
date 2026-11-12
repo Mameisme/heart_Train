@@ -7,7 +7,6 @@ import joblib
 model = joblib.load('heartDis.joblib')
 
 def main():
-    st.title('Churn Model Deployment')
     
 # Konfigurasi halaman
 st.set_page_config(
