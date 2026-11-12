@@ -57,7 +57,7 @@ if __name__ == "__main__":
 import streamlit as st
 import pandas as pd
 
-model = joblib.load('heartDis.joblib.joblib')
+model = joblib.load('heartDis.joblib')
 
 def main():
     st.title('Churn Model Deployment')
